@@ -233,3 +233,8 @@ The code in this project was developed in collaboration with Claude, Anthropic's
 ## Acknowledgement
 
 This project makes use of the Getty Vocabulary Program's public APIs, including the Getty reconciliation service and the Getty Linked Open Data endpoints. The Getty Research Institute provides open access to AAT, TGN, ULAN, IA, and CONA through these services.
+
+The project was inspired by and adapted from KL Tang's
+[cataloger-mcp](https://github.com/kltng/cataloger-mcp), extended here
+to apply to Getty Vocabularies lookup.
+
